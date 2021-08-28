@@ -1,0 +1,31 @@
+.botao-margem {
+    margin: 10px;
+}
+
+.botao-cor {
+    background-color: lawngreen;
+}
+
+.botao-cor:hover {
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.span-erro {
+    color: red;
+    font-size: smaller;
+    font-weight: bold;
+    display: none;
+}
+/* https://abeso.org.br/obesidade-e-sindrome-metabolica/calculadora-imc/ */
+#imgResultado {
+    width: 10%;
+    display: block;
+}
+.fieldset {
+    margin: 10px;
+    width: 10%;
+    padding: 10px;
+    border-collapse: collapse;
+    background-color: #00ffff;
+}
